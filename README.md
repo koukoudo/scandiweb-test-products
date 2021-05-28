@@ -1,6 +1,6 @@
-# Product Application
+# Scandiweb Junior Developer Test Application
 
-![1_nwMX2TSpfFA4hTVAS36VcQ](https://user-images.githubusercontent.com/54608658/119977596-ee6de800-bfb8-11eb-885d-8cb1aeeb7860.png)
+![600_472199428](https://user-images.githubusercontent.com/54608658/119977768-19f0d280-bfb9-11eb-8fe3-0a46a8de11bc.jpeg)
 
 ## Description
 
