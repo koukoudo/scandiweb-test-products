@@ -5,4 +5,5 @@
 ## Description
 
 This is a simple PHP and mySQL application developed for Scandiweb's Junior Developer Test.
-Users can view all the products in the database as well as add new products.
+
+Users can view and delete products in the database and add new products.
